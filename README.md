@@ -82,11 +82,12 @@ streamlit run streamlit_app.py
 
 ### Web Scraper Interface
 
-![web_scraper_interface](path_to_screenshot_1.png)
+![web_scraper_interface](https://github.com/ajoydas12/Job-Scraper/issues/1)
+![web_scraper_interface](https://github.com/ajoydas12/Job-Scraper/issues/2)
 
 ### Results Display
 
-![results_display](path_to_screenshot_2.png)
+![results_display](https://github.com/ajoydas12/Job-Scraper/issues/3)
 
 ## Contributing
 
